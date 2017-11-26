@@ -1,5 +1,15 @@
 # ansible-main
 ## TO-DO
+### Konfiguracja
+* sshd_config
+	* stworzenie grupy sshusers
+
+* stworzenie usera sknmain
+	* dodanie grup
+	* skopiowanie kluczy członków
+* stworzenie usera student
+	* dodanie grup
+
 ### Podstawowe
 * xorg
 * sterowniki
